@@ -6,6 +6,8 @@ A Flutter plugin for extracting the content of a Word document (`.doc` or `.docx
 
 The `doc_text` plugin provides a straightforward method to extract text from Word documents. This can be particularly useful for applications that need to read, display, or process the content of document files without requiring external applications.
 
+![Demo Video](assets/demo.gif "A sample video")
+
 ## Setup
 
 ### Android
