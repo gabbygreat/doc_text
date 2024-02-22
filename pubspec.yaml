@@ -1,11 +1,11 @@
 name: doc_text
 description: "A flutter plugin to extract the content of a DOC file as String"
 version: 0.0.1
-homepage:
+repository: https://github.com/gabbygreat/doc_text
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: ">=3.2.3 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
